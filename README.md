@@ -2,12 +2,12 @@
 
 ## Overview
 
-This project is a **UI test automation framework** built using **Python, Selenium, and Pytest**, following the **Page Object Model (POM)** design pattern.
+This project is built for software testing purpose.
 
 It automates testing of the SauceDemo web application and includes:
 - Functional UI automation testing
 - Pytest execution framework
-- Allure HTML reporting
+- Allure reporting
 - Excel-based defect tracking using openpyxl
 
 ## Tech Stack
