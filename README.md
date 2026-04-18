@@ -56,6 +56,7 @@ saucedemo-testing/
 
 <img width="1109" height="359" alt="Defect Tracking (Excel)" src="https://github.com/user-attachments/assets/ede210b8-19a7-45b6-aa99-a03eba1de8a5" />
 
+
 - Report Generation (Allure Report)
 
 <img width="913" height="780" alt="Report (Allure Report)" src="https://github.com/user-attachments/assets/f0900354-cc7c-45ce-a1a4-2a066f2422dd" />
