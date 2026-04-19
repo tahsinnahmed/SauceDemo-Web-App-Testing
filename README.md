@@ -23,29 +23,29 @@ It automates testing of the SauceDemo web application and includes:
 ```text
 saucedemo-testing/
 │
-├── tests/                  # Test cases
+├── tests/                  
 │   ├── test_login.py
 │   ├── test_inventory.py
 │   ├── test_cart.py
 │   └── test_checkout.py
 │
-├── pom/                    # Page Object Model (POM)
+├── pom/                   
 │   ├── login_page.py
 │   ├── inventory_page.py
 │   ├── cart_page.py
 │   └── checkout_page.py
 │
-├── utils/                  # Utility modules
+├── utils/                  
 │   ├── driver_setup.py
 │   ├── excel_logger.py
 │   └── url.py
 │
-├── test_data/              # Test data (JSON files)
+├── test_data/            
 │   └── login_data.json
 │
-├── reports/                # Allure raw results
+├── reports/              
 ├── requirements.txt
-└── pytest.ini              # Run test automatically
+└── pytest.ini              
 
 ```
 
