@@ -21,7 +21,7 @@ It automates testing of the SauceDemo web application and includes:
 ## Project Structure
 
 ```text
-saucedemo-testing/
+saucedemo web app testing/
 │
 ├── tests/                  
 │   ├── test_login.py
