@@ -13,7 +13,7 @@ It automates testing of the SauceDemo web application and includes:
 ## Tech Stack
 
 - Python
-- Selenium WebDriver
+- Selenium
 - Pytest
 - Allure Reports
 - openpyxl (Excel logging)
